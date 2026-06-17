@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Bilibili Interactive Video Exporter
@@ -160,5 +159,4 @@ Do not use this project for commercial redistribution, mass re-uploading, abusiv
 
 [![Star History Chart](https://api.star-history.com/svg?repos=YOUR_NAME/YOUR_REPO\&type=Date)](https://www.star-history.com/#YOUR_NAME/YOUR_REPO&Date)
 
-```
 ```
