@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Project generated files
+interactive_tree.csv
+downloads/
+*.mp4
+*.part
+
+# Secrets / local config
+.env
+cookies.txt
+*.cookie
+*.cookies
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
