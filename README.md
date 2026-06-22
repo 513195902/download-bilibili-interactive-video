@@ -157,6 +157,6 @@ Do not use this project for commercial redistribution, mass re-uploading, abusiv
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=513195902/download-bilibili-interactive-video&type=Date)](https://www.star-history.com/#513195902/download-bilibili-interactive-video&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=513195902/download-bilibili-interactive-video\&type=Date)](https://www.star-history.com/#513195902/download-bilibili-interactive-video&Date)
 
 ```
