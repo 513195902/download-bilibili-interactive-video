@@ -157,6 +157,6 @@ B 站返回的 MP4 地址通常是带签名和过期时间的临时地址。建�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_NAME/YOUR_REPO\&type=Date)](https://www.star-history.com/#YOUR_NAME/YOUR_REPO&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=513195902/download-bilibili-interactive-video&type=Date)](https://www.star-history.com/#513195902/download-bilibili-interactive-video&Date)
 
 ```
